@@ -55,10 +55,12 @@ a:link {
     length:10px; 
     text-align: center;
 }
-.Mathrepo{
+.SWT{
     border-style: ridge;
     border-width: 4px;
     width: 360px;
-    background-color: #1c87d9;
+    background-color: #21855a;
     color:white;
     list-style: none;
+    float: left
+}
